@@ -1,6 +1,6 @@
 {
     "targets": [{
-        "target_name": "hensm-ddcci",
+        "target_name": "ddcci",
          "conditions": [
             ['OS=="win"', {
             "sources": [ "./ddcci.cc" ],
